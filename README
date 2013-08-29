@@ -21,7 +21,7 @@ the original:
 RELATED WORKS
 - MultipleSearch (vimscript #479) can highlight in a single window and in all
   buffers, but still relies on the :syntax highlighting method, which is
-  slower and less reliable. 
+  slower and less reliable.
 - http://vim.wikia.com/wiki/Highlight_multiple_words offers control over the
   color used by mapping the 1-9 keys on the numeric keypad, persistence, and
   highlights only a single window. 
